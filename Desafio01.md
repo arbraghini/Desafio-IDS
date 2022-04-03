@@ -2,6 +2,9 @@
 Programa de seleção da Empresa IDS
 DESAFIO 01
 // Programa para calcular a pontuação de uma palavra digitada pelo usuário, através de uma tabela de valores //
+
+======================================================================================================================
+
 Passos para executar o programa em Java.
  1 - Salve o arquivo o programa em alguma Pasta do Windows.
  2 - Clique no botão Iniciar e digite cmd. Pressione ↵ Enter para abrir o "Prompt de Comando".
@@ -10,6 +13,9 @@ Passos para executar o programa em Java.
      Por exemplo, se você estiver no diretório C:\Users\Bob\Project e quiser acessar a pasta C:\Users\Bob\Project\TitanProject , digite cd TitanProject e pressione ↵        Enter. Para mostrar uma lista com todos os arquivos e pastas do diretório atual, digite dir no Windows ou ls no Mac e pressione ↵ Enter
  5 - Execute o programa. Digite java arquivo e pressione ↵ Enter. Lembre-se de que você deve trocar "arquivo" pelo nome do arquivo do seu programa.
      Após pressionar ↵ Enter, o programa deve rodar.
+ 
+ 
+ 
  
  
 import java.util.Scanner;
