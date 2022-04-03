@@ -14,9 +14,14 @@ Passos para executar o programa em Java.
  5 - Execute o programa. Digite java arquivo e pressione ↵ Enter. Lembre-se de que você deve trocar "arquivo" pelo nome do arquivo do seu programa.
      Após pressionar ↵ Enter, o programa deve rodar.
  
- 
- 
- 
+========================================================================================== 
+  
+  Tecnologias utilizadas:
+  1 - Java\jdk1.8.0_311
+  2 - Prompt de Comando do DOS.
+  3 - Bloco de Notas
+     
+=========================================================================================
  
 import java.util.Scanner;
 
